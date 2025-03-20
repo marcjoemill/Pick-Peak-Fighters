@@ -1,7 +1,7 @@
 # Pick Peak Fighters
 This is a 2D fighting game created using JavaFX
 
-###Developers:
+### Developers:
 Marc Joemil Mendoza
 Thyron Manamtam
 
