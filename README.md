@@ -2,8 +2,8 @@
 This is a 2D fighting game created using JavaFX
 
 ### Developers:
-Marc Joemil Mendoza
-Thyron Manamtam
+#### Marc Joemil Mendoza
+#### Thyron Manamtam
 
 ## Core Features
 ### 1. Local Multiplayer
